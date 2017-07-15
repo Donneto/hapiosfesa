@@ -1,21 +1,3 @@
-.todosfesa-panel-heading{
-	text-transform: capitalize;
-}
-
-.todosfesa-text-input,
-.todosfesa-textarea,
-.todosfesa-date-input {
-	padding: .5rem;
-	border-radius: .3rem;
-	outline: none;
-}
-
-.todosfesa-textarea {
-	width: 100%;
-	min-height: 5rem;
-	resize: none;
-}
-
-.is-disabled {
-	cursor: not-allowed;
+body {
+	background: blue;
 }
